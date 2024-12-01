@@ -1,5 +1,3 @@
-# 🚧 Under construction 🚧
-
 # Amber Barnes
 
 ## About Me
