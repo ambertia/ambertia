@@ -56,6 +56,7 @@ Over the recent years I've aimed to steadily ramp up my skillset and work on pro
 ![Node.js](https://img.shields.io/badge/Node.js-5fa04e?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3390a2?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Engineering Tools
 
