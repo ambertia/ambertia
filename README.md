@@ -58,7 +58,7 @@ Over the recent years I've aimed to steadily ramp up my skillset and work on pro
 
 ### Engineering Tools
 
-Before I considered myself a software engineer, I considered myself a mechanical engineer. My time at university exposed me to many software tools to cover all aspects of the engineering design process, even less flashy ones.
+Before I considered myself a software engineer, I considered myself a mechanical engineer. My time at university exposed me to many software tools to cover multiple aspects of the engineering design process, even less flashy ones.
 
 ![Autodesk Inventor / Fusion 360](https://img.shields.io/badge/Inventor%20\/%20Fusion360-000000?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-054d7d?style=for-the-badge)
@@ -73,11 +73,7 @@ Though I had dabbled before, I finally started using Linux as a daily driver whe
 
 In May 2024, I replaced my ASUS laptop with a Framework 13. Framework really impressed me with their packaging, presentation, and customizability - Very minimal plastic but robust packaging. I had to do a little bit of assembly, since I bought the R5 version but upgraded the RAM to 16GB, didn't want to pay for preinstalled Windows 11, and used an M.2 drive I already had - A Windows 10 installation that I had used maybe 10 times which was sitting collecting dust in my desktop PC. My laptop runs on a highly customized Arch Linux installation, and I have [an extensive set of dotfiles](https://github.com/ambertia/.dotfiles) for the configuration and features that are a constant work-in-progress.
 
-I appreciate Framework's attitude as a company, focusing on repairability of their products and minimizing the plastic used in their packaging materials. I recently (Nov 2024) sat on my laptop on accident and broke the screen, but rather than deal with a complicated repair service or just outright irreparability of the device, I bought a new display module from their website for $160 and was able to replace it myself in less than half an hour by following their publicly available instructions.
-
-I would generally consider myself a Linux nerd and open-source software enthusiast. I appreciate every day the ability to do most of my work on software that is "free as in freedom", as the saying goes, and it's immensely inspiring to me just how far the Linux ecosystem has come and just how much you can do with it. Every feature that is added to free-and-open-source softwares is a feature that doesn't serve to motivate people to use proprietary alternatives from entities that do not respect the security, privacy, or fundamentally even the agency of their consumers.
-
-### My standard workflow and productivity tools
+### Software I love and use on my systems on a daily basis
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-1d99f3?style=for-the-badge&logo=kde&logoColor=white)
@@ -92,8 +88,8 @@ I would generally consider myself a Linux nerd and open-source software enthusia
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-111111?style=for-the-badge&logo=firefox&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18a303?style=for-the-badge&logo=libreoffice&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-333333?style=for-the-badge&logo=zsh&logoColor=f15a24)
-![Starship](https://img.shields.io/badge/Starship-dd0b78?style=for-the-badge&logo=starship&logoColor=white)
 
+<!--
 ### Other software and tools I love
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
@@ -113,6 +109,7 @@ I would generally consider myself a Linux nerd and open-source software enthusia
 ![OpenJDK](https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Syncthing](https://img.shields.io/badge/Syncthing-0891d1?style=for-the-badge&logo=syncthing&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+-->
 
 <!--
 ![Framework](https://img.shields.io/badge/Framework-666666?style=for-the-badge&logo=framework&logoColor=black)
