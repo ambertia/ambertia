@@ -1,5 +1,3 @@
-# Amber Barnes
-
 ## About Me
 
 My name is Amber, and I'm currently looking for roles in software engineering. I've been technically inclined for a long time, and I have an extensive backgrounds with both mechanical engineering and computer science.
