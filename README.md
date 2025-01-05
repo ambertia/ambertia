@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Amber Barnes, and I'm currently looking for roles in software engineering. I've been technically inclined for a long time, and I have an extensive backgrounds with both mechanical engineering and computer science.
+My name is Amber, and I'm currently looking for roles in software engineering. I've been technically inclined for a long time, and I have an extensive backgrounds with both mechanical engineering and computer science.
 
 I previously attended Florida Institute of Technology in Melbourne, FL, where I sought a BSc in Mechanical Engineering with a minor in Computer Science. I completed 128 credit-hours between August 2018 and December 2021 with a 3.44 GPA, but unfortunately external life circumstances led me to stop attending university. Nonetheless, my education has provided me with an solid background in not only the pure quantitative aspects of mechanical engineering, but also with the engineering design process, working in teams with others to accomplish engineering tasks, and technical writing / communication. My learning at university also kickstarted my entry into the world of computer science, where I took multiple courses including Algorithms & Data Structures working in Java.
 
