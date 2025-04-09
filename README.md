@@ -54,6 +54,7 @@ Over the recent years I've aimed to steadily ramp up my skillset and work on pro
 ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3390a2?style=for-the-badge&logo=flask&logoColor=white)
 
+<!--
 ### Engineering Tools
 
 Before I considered myself a software engineer, I considered myself a mechanical engineer. My time at university exposed me to many software tools to cover multiple aspects of the engineering design process, even less flashy ones.
@@ -86,6 +87,7 @@ In May 2024, I replaced my ASUS laptop with a Framework 13. Framework really imp
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-111111?style=for-the-badge&logo=firefox&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18a303?style=for-the-badge&logo=libreoffice&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-333333?style=for-the-badge&logo=zsh&logoColor=f15a24)
+-->
 
 <!--
 ### Other software and tools I love
